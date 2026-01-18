@@ -39,5 +39,5 @@ My passion lies in deciphering data's hidden stories and leveraging analytics to
 <a href="https://www.uipath.com/" target="_blank" rel="noreferrer"> <img src="https://logowik.com/content/uploads/images/ui-path7967.jpg" alt="uipath" width="40" height="40"/> </a>
 <a href="https://airflow.apache.org/" target="_blank" rel="noreferrer"> <img src="https://media.zeemly.com/zeemly/product/apache-airflow.png" alt="airflow" width="40" height="40"/> </a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-<a href="https://www.sas.com/en_us/home.html" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/SAS_logo_horiz.svg/2560px-SAS_logo_horiz.svg.png" alt="sqlite" width="60" height="30"/> </a> 
+<a href="https://www.sas.com/en_us/home.html" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/SAS_logo_horiz.svg/2560px-SAS_logo_horiz.svg.png" alt="sas" width="60" height="30"/> </a> 
 </p>
