@@ -26,18 +26,5 @@ My passion lies in deciphering data's hidden stories and leveraging analytics to
 - 📫 How to reach me **hoangpnguyenwork@gmail.com**
 
 
-<h2 align="left">🌐 Languages and Tools:</h2>
-<p align="left"> 
-<a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://logodix.com/logo/643525.jpg" alt="sqlserver" width="40" height="40"/> </a> 
-<a href="https://www.tableau.com/" target="_blank" rel="noreferrer"> <img src="https://logos-world.net/wp-content/uploads/2021/10/Tableau-Emblem.png" alt="tableau" width="65" height="40"/> </a> 
-<a href="https://learn.microsoft.com/en-us/power-platform/guidance/icons" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/600px-New_Power_BI_Logo.svg.png?20210102182532" alt="power platform" width="40" height="40"/> </a> 
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-<a href="https://posit.co/download/rstudio-desktop/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/1280px-R_logo.svg.png" alt="R" width="50" height="40"/> </a>
-<a href="https://powerplatform.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://vectorseek.com/wp-content/uploads/2023/11/Microsoft-Power-Platform-Logo-Vector.svg-.png" alt="powerplatform" width="40" height="40"/> </a>
-<a href="https://docs.microsoft.com/en-us/office/vba/api/overview/" target="_blank" rel="noreferrer"> <img src="https://tse3.mm.bing.net/th/id/OIP.QGIw4vCmipP197xgZBKk7gHaDt?rs=1&pid=ImgDetMain&o=7&rm=3" alt="excel-vba" width="40" height="40"/> </a>
-<a href="https://www.alteryx.com/" target="_blank" rel="noreferrer"> <img src="https://vectorseek.com/wp-content/uploads/2023/11/Alteryx-Icon-Logo-Vector.svg--300x300.png" alt="alteryx" width="40" height="40"/> </a>
-<a href="https://www.uipath.com/" target="_blank" rel="noreferrer"> <img src="https://logowik.com/content/uploads/images/ui-path7967.jpg" alt="uipath" width="40" height="40"/> </a>
-<a href="https://airflow.apache.org/" target="_blank" rel="noreferrer"> <img src="https://media.zeemly.com/zeemly/product/apache-airflow.png" alt="airflow" width="40" height="40"/> </a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-<a href="[https://git-scm.com/](https://www.sas.com/en_us/home.html)" target="_blank" rel="noreferrer"> <img src="https://toppng.com/public/uploads/preview/sas-vector-logo-11574271025zlfhzotuy3.png" alt="sas" width="40" height="40"/> </a> 
-</p>
+• Tools: SQL, Python, Tableau, Power BI, R, VBA/Power Query, Alteryx, Power Automate, UiPath, Airflow, Docker, Git, SAS
+• Certifications: Power BI PL-300, Tableau Specialist, Power Platforms PL-900, Alteryx Designer, MOOC certificates
