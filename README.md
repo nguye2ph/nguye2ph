@@ -22,9 +22,8 @@ My passion lies in deciphering data's hidden stories and leveraging analytics to
 
 - 🌱 I’m learning **AWS, Microsoft Fabrics**, and honing existing skills
 
-
 - 📫 How to reach me **hoangpnguyenwork@gmail.com**
 
+- 🛠️ Tools: SQL, Python, Tableau, Power BI, R, VBA/Power Query, Alteryx, Power Automate, UiPath, Airflow, Docker, Git, SAS
 
-• Tools: SQL, Python, Tableau, Power BI, R, VBA/Power Query, Alteryx, Power Automate, UiPath, Airflow, Docker, Git, SAS
-• Certifications: Power BI PL-300, Tableau Specialist, Power Platforms PL-900, Alteryx Designer, MOOC certificates
+- 🏆 Certifications: Power BI PL-300, Tableau Specialist, Power Platforms PL-900, Alteryx Designer, MOOC certificates
